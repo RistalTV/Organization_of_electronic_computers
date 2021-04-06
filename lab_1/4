@@ -1,0 +1,21 @@
+{
+    "randFrequencyMP": {
+        "min": 3,
+        "max": 9999
+    },
+    "randFrequencySB": {
+        "min": 1
+    },
+    "randChance": {
+        "min": 1,
+        "max": 99
+    },
+    "randCountCommand": {
+        "min": 2,
+        "max": 30
+    },
+    "randFormOP": {
+        "min": 2,
+        "max": 10
+    }
+}
