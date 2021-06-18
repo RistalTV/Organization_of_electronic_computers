@@ -1,0 +1,33 @@
+D:\4 semestr\Computer organization\Lab1\Lab1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\4 semestr\Computer organization\Lab1\Lab1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\4 semestr\Computer organization\Lab1\Lab1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\4 semestr\Computer organization\Lab1\Lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\4 semestr\Computer organization\Lab1\Lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\4 semestr\Computer organization\Lab1\Lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\4 semestr\Computer organization\Lab1\Lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\4 semestr\Computer organization\Lab1\Lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\4 semestr\Computer organization\Lab1\Lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\4 semestr\Computer organization\Lab1\Lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\4 semestr\Computer organization\Lab1\Lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\leoni\Desktop\Lab1\Lab1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\leoni\Desktop\Lab1\Lab1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\leoni\Desktop\Lab1\Lab1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\leoni\Desktop\Lab1\Lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\leoni\Desktop\Lab1\Lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\leoni\Desktop\Lab1\Lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\leoni\Desktop\Lab1\Lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\leoni\Desktop\Lab1\Lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\leoni\Desktop\Lab1\Lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\leoni\Desktop\Lab1\Lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\leoni\Desktop\Lab1\Lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\projects\Organization_of_electronic_computers\Lab1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\projects\Organization_of_electronic_computers\Lab1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\projects\Organization_of_electronic_computers\Lab1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\projects\Organization_of_electronic_computers\Lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\projects\Organization_of_electronic_computers\Lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\projects\Organization_of_electronic_computers\Lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+D:\projects\Organization_of_electronic_computers\Lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\projects\Organization_of_electronic_computers\Lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\projects\Organization_of_electronic_computers\Lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\projects\Organization_of_electronic_computers\Lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\projects\Organization_of_electronic_computers\Lab1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

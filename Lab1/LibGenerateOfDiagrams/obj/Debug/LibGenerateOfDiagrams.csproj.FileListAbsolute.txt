@@ -1,0 +1,6 @@
+D:\projects\Organization_of_electronic_computers\Lab1\LibGenerateOfDiagrams\bin\Debug\LibGenerateOfDiagrams.dll
+D:\projects\Organization_of_electronic_computers\Lab1\LibGenerateOfDiagrams\bin\Debug\LibGenerateOfDiagrams.pdb
+D:\projects\Organization_of_electronic_computers\Lab1\LibGenerateOfDiagrams\obj\Debug\LibGenerateOfDiagrams.csproj.CoreCompileInputs.cache
+D:\projects\Organization_of_electronic_computers\Lab1\LibGenerateOfDiagrams\obj\Debug\LibGenerateOfDiagrams.dll
+D:\projects\Organization_of_electronic_computers\Lab1\LibGenerateOfDiagrams\obj\Debug\LibGenerateOfDiagrams.pdb
+D:\projects\Organization_of_electronic_computers\Lab1\LibGenerateOfDiagrams\obj\Debug\LibGenerateOfDiagrams.csproj.AssemblyReference.cache
