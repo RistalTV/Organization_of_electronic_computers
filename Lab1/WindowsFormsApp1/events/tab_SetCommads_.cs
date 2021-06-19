@@ -1,7 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Drawing;
-using System.Drawing.Drawing2D;
 using System.Windows.Forms;
 
 namespace WinFormLab_1
@@ -17,9 +15,16 @@ namespace WinFormLab_1
                 {
                     tab_SetCommads_DataGrid.Rows.Add(el.TimeDo, el.TypeS, el.CacheS);
                 }
-
-                
             }
+        }
+
+        private void tab_SetCommads_DataGrid_Resize(object sender, System.EventArgs e)
+        {
+            int columnWidth = (int)(tab_SetCommads_DataGrid.Width / tab_SetCommads_DataGrid.ColumnCount);
+            tab_SetCommads_Column1.Width = columnWidth;
+            tab_SetCommads_Column2.Width = columnWidth;
+            tab_SetCommads_Column3.Width = columnWidth;
+
         }
 
         private void Btn_step_2_Click(object sender, EventArgs e)

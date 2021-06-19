@@ -1,8 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Drawing;
-using System.Drawing.Drawing2D;
 using System.Windows.Forms;
+
 
 namespace WinFormLab_1
 {
@@ -27,15 +26,5 @@ namespace WinFormLab_1
         }
 
         
-
-
-        
-
-        
-        private void hScrollBar1_Scroll(object sender, ScrollEventArgs e)
-        {
-            tab_ViewDiagram_Graph.Invalidate();
-
-        }
     }
 }
