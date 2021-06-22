@@ -39,7 +39,7 @@ namespace WinFormLab_1
                 {
                     StartCap = LineCap.ArrowAnchor//roundanchor
                 };
-                ClassRet LasrR = new ClassRet() { Cash = false, CashN = 0, Conveer = 0, ConveerN = 0 };
+                ParamCommand LasrR = new ParamCommand() { Cash = false, CashN = 0, Conveer = 0, ConveerN = 0 };
                 tab_ViewDiagram_Graph.Width = delta + 20 * lisrR.Count + 8000;
                 witdh_viewport = delta + 20 * lisrR.Count + 8000;
                 bmp = new Bitmap(tab_ViewDiagram_Graph.Width, tab_ViewDiagram_Graph.Height);

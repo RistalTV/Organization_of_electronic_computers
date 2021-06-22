@@ -1,17 +1,16 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 
 namespace WinFormLab_1
 {
     public static class Computer
     {
-        public static List<ClassRet> DoDo(Queue<Command> queue, int tick1, int tick2, int tick3)// очередь || выгрузка из памяти \\ формула памяти\\ во сколько шина медленней процессора
+        public static List<ParamCommand> DoDo(Queue<Command> queue, int tick1, int tick2, int tick3)// очередь || выгрузка из памяти \\ формула памяти\\ во сколько шина медленней процессора
         {
             var queueMain = new Queue<Command>(queue);
-            var listProcess = new List<ClassRet>();
+            var listProcess = new List<ParamCommand>();
             var cash = false;
             var conveer = false;
             var conveerN = 0;
@@ -24,7 +23,7 @@ namespace WinFormLab_1
             var try1 = false;
             for (var i = 0; ; i++)
             {
-                listProcess.Add(new ClassRet());
+                listProcess.Add(new ParamCommand());
                 if (!conveer)
                 {
                     if (queueMainAfterCASH.Count != 0)
@@ -344,69 +343,69 @@ namespace WinFormLab_1
             int rand2;
             for (var i = 0; i < N; i++)
             {
-                var term = new Command();
+                var tmpCommand = new Command();
                 _ = rand.Next(100);
-                term.Cache = (rand.Next(100) < 75);
-                term.Numb = i + 1;
+                tmpCommand.Cache = (rand.Next(100) < 75);
+                tmpCommand.Numb = i + 1;
                 rand1 = rand.Next(100);
                 rand2 = rand.Next(100);
                 if (rand1 < 20)
                 {
-                    term.Type = true;
+                    tmpCommand.Type = true;
                     if (rand2 < 70)
                     {
-                        term.TimeDo = 5;
+                        tmpCommand.TimeDo = 5;
                     }
                     else if (rand2 < 90)
                     {
-                        term.TimeDo = 2;
+                        tmpCommand.TimeDo = 2;
                     }
                     else
                     {
-                        term.TimeDo = 1;
+                        tmpCommand.TimeDo = 1;
                     }
                 }
                 else if (rand1 < 35)
                 {
-                    term.Type = true;
+                    tmpCommand.Type = true;
                     if (rand2 < 70)
                     {
-                        term.TimeDo = 2;
+                        tmpCommand.TimeDo = 2;
                     }
                     else if (rand2 < 90)
                     {
-                        term.TimeDo = 5;
+                        tmpCommand.TimeDo = 5;
                     }
                     else
                     {
-                        term.TimeDo = 1;
+                        tmpCommand.TimeDo = 1;
                     }
                 }
                 else if (rand1 < 55)
                 {
-                    term.Type = false;
+                    tmpCommand.Type = false;
                     if (rand2 < 80)
                     {
-                        term.TimeDo = 2;
+                        tmpCommand.TimeDo = 2;
                     }
                     else
                     {
-                        term.TimeDo = 1;
+                        tmpCommand.TimeDo = 1;
                     }
                 }
                 else
                 {
-                    term.Type = true;
+                    tmpCommand.Type = true;
                     if (rand2 < 60)
                     {
-                        term.TimeDo = 2;
+                        tmpCommand.TimeDo = 2;
                     }
                     else
                     {
-                        term.TimeDo = 1;
+                        tmpCommand.TimeDo = 1;
                     }
                 }
-                queueMain.Enqueue(term);
+                queueMain.Enqueue(tmpCommand);
             }
             return queueMain;
         }

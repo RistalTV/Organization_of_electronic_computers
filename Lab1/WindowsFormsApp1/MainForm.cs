@@ -7,7 +7,7 @@ namespace WinFormLab_1
 {
     public partial class MainForm : Form
     {
-        List<ClassRet> lisrR;
+        List<ParamCommand> lisrR;
         public Queue<Command> queue;
         private Bitmap bmp;
         Graphics gPanel;

@@ -109,8 +109,6 @@ D:\projects\Organization_of_electronic_computers\Lab1\WindowsFormsApp1\bin\Relea
 D:\projects\Organization_of_electronic_computers\Lab1\WindowsFormsApp1\bin\Release\System.Xml.XmlSerializer.dll
 D:\projects\Organization_of_electronic_computers\Lab1\WindowsFormsApp1\bin\Release\System.Xml.XPath.dll
 D:\projects\Organization_of_electronic_computers\Lab1\WindowsFormsApp1\bin\Release\System.Xml.XPath.XDocument.dll
-D:\projects\Organization_of_electronic_computers\Lab1\WindowsFormsApp1\bin\Release\BenchmarkDotNet.Annotations.dll
-D:\projects\Organization_of_electronic_computers\Lab1\WindowsFormsApp1\bin\Release\BenchmarkDotNet.dll
 D:\projects\Organization_of_electronic_computers\Lab1\WindowsFormsApp1\bin\Release\CommandLine.dll
 D:\projects\Organization_of_electronic_computers\Lab1\WindowsFormsApp1\bin\Release\Iced.dll
 D:\projects\Organization_of_electronic_computers\Lab1\WindowsFormsApp1\bin\Release\Microsoft.CodeAnalysis.CSharp.dll
@@ -133,8 +131,6 @@ D:\projects\Organization_of_electronic_computers\Lab1\WindowsFormsApp1\bin\Relea
 D:\projects\Organization_of_electronic_computers\Lab1\WindowsFormsApp1\bin\Release\System.Text.Encoding.CodePages.dll
 D:\projects\Organization_of_electronic_computers\Lab1\WindowsFormsApp1\bin\Release\System.Threading.Tasks.Extensions.dll
 D:\projects\Organization_of_electronic_computers\Lab1\WindowsFormsApp1\bin\Release\System.ValueTuple.dll
-D:\projects\Organization_of_electronic_computers\Lab1\WindowsFormsApp1\bin\Release\BenchmarkDotNet.xml
-D:\projects\Organization_of_electronic_computers\Lab1\WindowsFormsApp1\bin\Release\BenchmarkDotNet.Annotations.xml
 D:\projects\Organization_of_electronic_computers\Lab1\WindowsFormsApp1\bin\Release\CommandLine.xml
 D:\projects\Organization_of_electronic_computers\Lab1\WindowsFormsApp1\bin\Release\Iced.xml
 D:\projects\Organization_of_electronic_computers\Lab1\WindowsFormsApp1\bin\Release\Microsoft.CodeAnalysis.pdb
@@ -180,6 +176,7 @@ D:\projects\Organization_of_electronic_computers\Lab1\WindowsFormsApp1\bin\Relea
 D:\projects\Organization_of_electronic_computers\Lab1\WindowsFormsApp1\bin\Release\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
 D:\projects\Organization_of_electronic_computers\Lab1\WindowsFormsApp1\bin\Release\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
 D:\projects\Organization_of_electronic_computers\Lab1\WindowsFormsApp1\bin\Release\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\projects\Organization_of_electronic_computers\Lab1\WindowsFormsApp1\obj\Release\WinFormLab_1.csproj.AssemblyReference.cache
 D:\projects\Organization_of_electronic_computers\Lab1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe.config
 D:\projects\Organization_of_electronic_computers\Lab1\WindowsFormsApp1\obj\Release\WinFormLab_1.MainForm.resources
 D:\projects\Organization_of_electronic_computers\Lab1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources

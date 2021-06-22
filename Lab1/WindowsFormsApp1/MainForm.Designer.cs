@@ -28,11 +28,11 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle6 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle7 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle8 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle9 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle10 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle4 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle5 = new System.Windows.Forms.DataGridViewCellStyle();
             this.tab_ViewDiagram_panel = new System.Windows.Forms.Panel();
             this.tab_ViewDiagram_Graph = new System.Windows.Forms.PictureBox();
             this.tab_settings_label1 = new System.Windows.Forms.Label();
@@ -470,33 +470,33 @@
             // 
             this.tab_SetCommads_DataGrid.AllowUserToResizeColumns = false;
             this.tab_SetCommads_DataGrid.AllowUserToResizeRows = false;
-            dataGridViewCellStyle6.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(225)))), ((int)(((byte)(251)))), ((int)(((byte)(233)))));
-            dataGridViewCellStyle6.SelectionForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(225)))), ((int)(((byte)(251)))), ((int)(((byte)(233)))));
-            this.tab_SetCommads_DataGrid.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle6;
+            dataGridViewCellStyle1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(225)))), ((int)(((byte)(251)))), ((int)(((byte)(233)))));
+            dataGridViewCellStyle1.SelectionForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(225)))), ((int)(((byte)(251)))), ((int)(((byte)(233)))));
+            this.tab_SetCommads_DataGrid.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle1;
             this.tab_SetCommads_DataGrid.BackgroundColor = System.Drawing.Color.FromArgb(((int)(((byte)(35)))), ((int)(((byte)(194)))), ((int)(((byte)(166)))));
             this.tab_SetCommads_DataGrid.CellBorderStyle = System.Windows.Forms.DataGridViewCellBorderStyle.SingleHorizontal;
             this.tab_SetCommads_DataGrid.ColumnHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.Single;
-            dataGridViewCellStyle7.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle7.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(22)))), ((int)(((byte)(165)))), ((int)(((byte)(140)))));
-            dataGridViewCellStyle7.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Bold);
-            dataGridViewCellStyle7.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(225)))), ((int)(((byte)(251)))), ((int)(((byte)(233)))));
-            dataGridViewCellStyle7.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(22)))), ((int)(((byte)(165)))), ((int)(((byte)(140)))));
-            dataGridViewCellStyle7.SelectionForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(225)))), ((int)(((byte)(251)))), ((int)(((byte)(233)))));
-            dataGridViewCellStyle7.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.tab_SetCommads_DataGrid.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle7;
+            dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(22)))), ((int)(((byte)(165)))), ((int)(((byte)(140)))));
+            dataGridViewCellStyle2.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Bold);
+            dataGridViewCellStyle2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(225)))), ((int)(((byte)(251)))), ((int)(((byte)(233)))));
+            dataGridViewCellStyle2.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(22)))), ((int)(((byte)(165)))), ((int)(((byte)(140)))));
+            dataGridViewCellStyle2.SelectionForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(225)))), ((int)(((byte)(251)))), ((int)(((byte)(233)))));
+            dataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.tab_SetCommads_DataGrid.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle2;
             this.tab_SetCommads_DataGrid.ColumnHeadersHeight = 40;
             this.tab_SetCommads_DataGrid.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.tab_SetCommads_Column1,
             this.tab_SetCommads_Column2,
             this.tab_SetCommads_Column3});
-            dataGridViewCellStyle8.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle8.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(22)))), ((int)(((byte)(165)))), ((int)(((byte)(140)))));
-            dataGridViewCellStyle8.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Bold);
-            dataGridViewCellStyle8.ForeColor = System.Drawing.SystemColors.ControlText;
-            dataGridViewCellStyle8.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(22)))), ((int)(((byte)(165)))), ((int)(((byte)(140)))));
-            dataGridViewCellStyle8.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle8.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
-            this.tab_SetCommads_DataGrid.DefaultCellStyle = dataGridViewCellStyle8;
+            dataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(22)))), ((int)(((byte)(165)))), ((int)(((byte)(140)))));
+            dataGridViewCellStyle3.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Bold);
+            dataGridViewCellStyle3.ForeColor = System.Drawing.SystemColors.ControlText;
+            dataGridViewCellStyle3.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(22)))), ((int)(((byte)(165)))), ((int)(((byte)(140)))));
+            dataGridViewCellStyle3.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
+            this.tab_SetCommads_DataGrid.DefaultCellStyle = dataGridViewCellStyle3;
             this.tab_SetCommads_DataGrid.Dock = System.Windows.Forms.DockStyle.Fill;
             this.tab_SetCommads_DataGrid.EditMode = System.Windows.Forms.DataGridViewEditMode.EditOnEnter;
             this.tab_SetCommads_DataGrid.GridColor = System.Drawing.Color.FromArgb(((int)(((byte)(22)))), ((int)(((byte)(165)))), ((int)(((byte)(140)))));
@@ -505,22 +505,22 @@
             this.tab_SetCommads_DataGrid.MultiSelect = false;
             this.tab_SetCommads_DataGrid.Name = "tab_SetCommads_DataGrid";
             this.tab_SetCommads_DataGrid.RowHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.Single;
-            dataGridViewCellStyle9.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle9.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(22)))), ((int)(((byte)(165)))), ((int)(((byte)(140)))));
-            dataGridViewCellStyle9.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Bold);
-            dataGridViewCellStyle9.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(225)))), ((int)(((byte)(251)))), ((int)(((byte)(233)))));
-            dataGridViewCellStyle9.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(22)))), ((int)(((byte)(165)))), ((int)(((byte)(140)))));
-            dataGridViewCellStyle9.SelectionForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(225)))), ((int)(((byte)(251)))), ((int)(((byte)(233)))));
-            dataGridViewCellStyle9.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.tab_SetCommads_DataGrid.RowHeadersDefaultCellStyle = dataGridViewCellStyle9;
+            dataGridViewCellStyle4.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(22)))), ((int)(((byte)(165)))), ((int)(((byte)(140)))));
+            dataGridViewCellStyle4.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Bold);
+            dataGridViewCellStyle4.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(225)))), ((int)(((byte)(251)))), ((int)(((byte)(233)))));
+            dataGridViewCellStyle4.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(22)))), ((int)(((byte)(165)))), ((int)(((byte)(140)))));
+            dataGridViewCellStyle4.SelectionForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(225)))), ((int)(((byte)(251)))), ((int)(((byte)(233)))));
+            dataGridViewCellStyle4.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.tab_SetCommads_DataGrid.RowHeadersDefaultCellStyle = dataGridViewCellStyle4;
             this.tab_SetCommads_DataGrid.RowHeadersVisible = false;
             this.tab_SetCommads_DataGrid.RowHeadersWidthSizeMode = System.Windows.Forms.DataGridViewRowHeadersWidthSizeMode.AutoSizeToFirstHeader;
-            dataGridViewCellStyle10.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(22)))), ((int)(((byte)(165)))), ((int)(((byte)(140)))));
-            dataGridViewCellStyle10.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            dataGridViewCellStyle10.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(225)))), ((int)(((byte)(251)))), ((int)(((byte)(233)))));
-            dataGridViewCellStyle10.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(22)))), ((int)(((byte)(165)))), ((int)(((byte)(140)))));
-            dataGridViewCellStyle10.SelectionForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(225)))), ((int)(((byte)(251)))), ((int)(((byte)(233)))));
-            this.tab_SetCommads_DataGrid.RowsDefaultCellStyle = dataGridViewCellStyle10;
+            dataGridViewCellStyle5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(22)))), ((int)(((byte)(165)))), ((int)(((byte)(140)))));
+            dataGridViewCellStyle5.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            dataGridViewCellStyle5.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(225)))), ((int)(((byte)(251)))), ((int)(((byte)(233)))));
+            dataGridViewCellStyle5.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(22)))), ((int)(((byte)(165)))), ((int)(((byte)(140)))));
+            dataGridViewCellStyle5.SelectionForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(225)))), ((int)(((byte)(251)))), ((int)(((byte)(233)))));
+            this.tab_SetCommads_DataGrid.RowsDefaultCellStyle = dataGridViewCellStyle5;
             this.tab_SetCommads_DataGrid.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.tab_SetCommads_DataGrid.Size = new System.Drawing.Size(988, 334);
             this.tab_SetCommads_DataGrid.StandardTab = true;
@@ -549,7 +549,7 @@
             // 
             // tab_SetCommads_Column3
             // 
-            this.tab_SetCommads_Column3.HeaderText = "Состояние команды";
+            this.tab_SetCommads_Column3.HeaderText = "Состояние команды ";
             this.tab_SetCommads_Column3.MinimumWidth = 330;
             this.tab_SetCommads_Column3.Name = "tab_SetCommads_Column3";
             this.tab_SetCommads_Column3.Resizable = System.Windows.Forms.DataGridViewTriState.False;
@@ -723,7 +723,7 @@
             this.MainForm_label7.Name = "MainForm_label7";
             this.MainForm_label7.Size = new System.Drawing.Size(1256, 67);
             this.MainForm_label7.TabIndex = 19;
-            this.MainForm_label7.Text = "Выполнила группа ФИТУ 2-5б. Морозов Р; Скребнев Л.";
+            this.MainForm_label7.Text = "Выполнила группа ФИТУ 2-5б. Морозов Р; Скребнев Л; Литвинов В;  Саакян И;";
             this.MainForm_label7.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // MainForm
@@ -791,15 +791,15 @@
         private System.Windows.Forms.Button tab_SetCommads_btn_step_2;
         private System.Windows.Forms.Button tab_SetCommads_btn_step_2_random;
         public System.Windows.Forms.DataGridView tab_SetCommads_DataGrid;
-        private System.Windows.Forms.DataGridViewTextBoxColumn tab_SetCommads_Column1;
-        private System.Windows.Forms.DataGridViewTextBoxColumn tab_SetCommads_Column2;
-        private System.Windows.Forms.DataGridViewTextBoxColumn tab_SetCommads_Column3;
         private System.Windows.Forms.TableLayoutPanel tableLayoutPanel1;
         private System.Windows.Forms.TableLayoutPanel tableLayoutPanel2;
         private System.Windows.Forms.Label tab_ViewDiagram_label_Commands;
         private System.Windows.Forms.HScrollBar tab_ViewDiagram_hScrollBar1;
         private System.Windows.Forms.TableLayoutPanel tableLayoutPanel3;
         public System.Windows.Forms.PictureBox tab_ViewDiagram_Graph;
+        private System.Windows.Forms.DataGridViewTextBoxColumn tab_SetCommads_Column1;
+        private System.Windows.Forms.DataGridViewTextBoxColumn tab_SetCommads_Column2;
+        private System.Windows.Forms.DataGridViewTextBoxColumn tab_SetCommads_Column3;
     }
 }
 

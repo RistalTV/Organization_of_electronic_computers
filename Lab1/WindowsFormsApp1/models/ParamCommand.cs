@@ -1,14 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 
-namespace LibGenerateOfDiagrams
+namespace WinFormLab_1
 {
-    public class ClassRet
+    public class ParamCommand
     {
-        public ClassRet()
+        public ParamCommand()
         {
             listQuest = new List<int>();
         }
@@ -79,4 +75,3 @@ namespace LibGenerateOfDiagrams
         }
     }
 }
-
