@@ -116,8 +116,6 @@ D:\projects\Organization_of_electronic_computers\Lab1\WindowsFormsApp1\bin\Debug
 D:\projects\Organization_of_electronic_computers\Lab1\WindowsFormsApp1\bin\Debug\System.Xml.XmlSerializer.dll
 D:\projects\Organization_of_electronic_computers\Lab1\WindowsFormsApp1\bin\Debug\System.Xml.XPath.dll
 D:\projects\Organization_of_electronic_computers\Lab1\WindowsFormsApp1\bin\Debug\System.Xml.XPath.XDocument.dll
-D:\projects\Organization_of_electronic_computers\Lab1\WindowsFormsApp1\bin\Debug\BenchmarkDotNet.Annotations.dll
-D:\projects\Organization_of_electronic_computers\Lab1\WindowsFormsApp1\bin\Debug\BenchmarkDotNet.dll
 D:\projects\Organization_of_electronic_computers\Lab1\WindowsFormsApp1\bin\Debug\CommandLine.dll
 D:\projects\Organization_of_electronic_computers\Lab1\WindowsFormsApp1\bin\Debug\Iced.dll
 D:\projects\Organization_of_electronic_computers\Lab1\WindowsFormsApp1\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
@@ -140,8 +138,6 @@ D:\projects\Organization_of_electronic_computers\Lab1\WindowsFormsApp1\bin\Debug
 D:\projects\Organization_of_electronic_computers\Lab1\WindowsFormsApp1\bin\Debug\System.Text.Encoding.CodePages.dll
 D:\projects\Organization_of_electronic_computers\Lab1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
 D:\projects\Organization_of_electronic_computers\Lab1\WindowsFormsApp1\bin\Debug\System.ValueTuple.dll
-D:\projects\Organization_of_electronic_computers\Lab1\WindowsFormsApp1\bin\Debug\BenchmarkDotNet.xml
-D:\projects\Organization_of_electronic_computers\Lab1\WindowsFormsApp1\bin\Debug\BenchmarkDotNet.Annotations.xml
 D:\projects\Organization_of_electronic_computers\Lab1\WindowsFormsApp1\bin\Debug\CommandLine.xml
 D:\projects\Organization_of_electronic_computers\Lab1\WindowsFormsApp1\bin\Debug\Iced.xml
 D:\projects\Organization_of_electronic_computers\Lab1\WindowsFormsApp1\bin\Debug\Microsoft.CodeAnalysis.pdb

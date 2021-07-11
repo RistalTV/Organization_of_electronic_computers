@@ -1,0 +1,11 @@
+D:\projects\Organization_of_electronic_computers\CreatorDiagrams\bin\Debug\CreatorDiagrams.exe.config
+D:\projects\Organization_of_electronic_computers\CreatorDiagrams\bin\Debug\CreatorDiagrams.exe
+D:\projects\Organization_of_electronic_computers\CreatorDiagrams\bin\Debug\CreatorDiagrams.pdb
+D:\projects\Organization_of_electronic_computers\CreatorDiagrams\obj\Debug\CreatorDiagrams.csproj.AssemblyReference.cache
+D:\projects\Organization_of_electronic_computers\CreatorDiagrams\obj\Debug\CreatorDiagrams.Form1.resources
+D:\projects\Organization_of_electronic_computers\CreatorDiagrams\obj\Debug\CreatorDiagrams.Properties.Resources.resources
+D:\projects\Organization_of_electronic_computers\CreatorDiagrams\obj\Debug\CreatorDiagrams.Settings.resources
+D:\projects\Organization_of_electronic_computers\CreatorDiagrams\obj\Debug\CreatorDiagrams.csproj.GenerateResource.cache
+D:\projects\Organization_of_electronic_computers\CreatorDiagrams\obj\Debug\CreatorDiagrams.csproj.CoreCompileInputs.cache
+D:\projects\Organization_of_electronic_computers\CreatorDiagrams\obj\Debug\CreatorDiagrams.exe
+D:\projects\Organization_of_electronic_computers\CreatorDiagrams\obj\Debug\CreatorDiagrams.pdb

@@ -269,7 +269,8 @@ namespace WinFormLab_1
                 try
                 {
                     
-                    tab_ViewDiagram_label_Diagnostic.Text = $"Производительность: {watch.ElapsedMilliseconds } милиСек";
+                    tab_ViewDiagram_label_Diagnostic.Text = $"Производительность:{1 / int1} микроСек; \nскорость отрисовки циклограммы {watch.ElapsedMilliseconds } милиСек\n" +
+                        $"";
                 }
                 catch(Exception e)
                 {

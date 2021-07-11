@@ -44,7 +44,7 @@ namespace WinFormLab_1
                 term.TimeDo = int1;
                 term.TypeS = tab_SetCommads_DataGrid.Rows[i].Cells[1].Value.ToString();
                 term.CacheS = tab_SetCommads_DataGrid.Rows[i].Cells[2].Value.ToString();
-                commands_label += $" {term.TimeDo}( {term.TypeS}, {term.CacheS} ); ";
+                commands_label += $" {term.TimeDo} т.( {term.CacheS}, {term.TypeS} ); ";
                 queue.Enqueue(term);
             }
             MainForm_MainTabControl.SelectedTab = tab_ViewDiagram;
